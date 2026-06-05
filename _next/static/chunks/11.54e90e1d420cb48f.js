@@ -614,7 +614,7 @@
                       className: "flex ml-6 gap-3",
                       children: [
                         (0, n.jsx)(l.P.a, {
-                          href: "https://t.me/KomeChanETH",
+                          href: "https://t.me/mukuoneth",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           className:
@@ -635,7 +635,7 @@
                           }),
                         }),
                         (0, n.jsx)(l.P.a, {
-                          href: "https://x.com/KomeChanETH",
+                          href: "https://x.com/mukuoneth",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           className:
@@ -749,7 +749,7 @@
                             "flex gap-3 justify-center items-center py-4",
                           children: [
                             (0, n.jsx)("a", {
-                              href: "https://t.me/KomeChanETH",
+                              href: "https://t.me/mukuoneth",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className:
@@ -760,7 +760,7 @@
                               }),
                             }),
                             (0, n.jsx)("a", {
-                              href: "https://x.com/KomeChanETH",
+                              href: "https://x.com/mukuoneth",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className:

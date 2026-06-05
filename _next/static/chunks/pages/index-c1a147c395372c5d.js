@@ -1717,12 +1717,12 @@
               {
                 name: "Twitter",
                 icon: (0, i.jsx)(u.tZq, { size: 24 }),
-                href: "https://x.com/KomeChanETH",
+                href: "https://x.com/mukuoneth",
               },
               {
                 name: "Telegram",
                 icon: (0, i.jsx)(r.hFS, { size: 24 }),
-                href: "https://t.me/KomeChanETH",
+                href: "https://t.me/mukuoneth",
               },
             ];
           return (0, i.jsxs)("footer", {
