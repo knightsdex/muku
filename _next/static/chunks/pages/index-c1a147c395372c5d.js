@@ -1002,7 +1002,7 @@
                         animate: { opacity: 1 },
                         transition: { delay: 0.4, duration: 0.6 },
                         children:
-                          "A Kome-powered economy designed for fairness and transparency",
+                          "A Muku-powered economy designed for fairness and transparency",
                       }),
                     ],
                   }),
