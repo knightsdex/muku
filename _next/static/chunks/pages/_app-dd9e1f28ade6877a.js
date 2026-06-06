@@ -74,12 +74,12 @@
                   (0, o.jsx)("meta", {
                     name: "description",
                     content:
-                      "MUKU - The adorable rescue pup from the same shelter as Neiro and Cocoro is here to take over the crypto world! Join the anime adventure with $MUKU.",
+                      "MUKU - Kabosumama's adorable new cat  is here to take over the crypto world! Join the anime adventure with $MUKU.",
                   }),
                   (0, o.jsx)("meta", {
                     property: "og:description",
                     content:
-                      "MUKU - The adorable rescue pup from the same shelter as Neiro and Cocoro is here to take over the crypto world! Join the anime adventure with $MUKU.",
+                      "MUKU - Kabosumama's adorable new cat  is here to take over the crypto world! Join the anime adventure with $MUKU.",
                   }),
                   (0, o.jsx)("meta", {
                     property: "og:url",

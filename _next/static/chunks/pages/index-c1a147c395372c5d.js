@@ -1864,7 +1864,7 @@
                           className: "text-xs opacity-75",
                           style: { color: "#D45500" },
                           children:
-                            "The adorable rescue pup from the same shelter as Neiro and Cocoro",
+                            "Kabosumama's adorable new cat ",
                         }),
                       ],
                     }),
