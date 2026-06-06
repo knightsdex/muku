@@ -606,7 +606,7 @@
                                   onClick: () => {
                                     t(),
                                       window.open(
-                                        "https://www.dextools.io/app/en/ether/pair-explorer/0x0000000000000000000000000000",
+                                        "https://www.dextools.io/app/en/ether/pair-explorer/0xbb6ba859cf258bab3d3ec776773478ae0a59fb94",
                                         "_blank"
                                       );
                                   },
